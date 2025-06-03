@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Banner = () => {
   return (
-    <main>
+    <main className="md:pt-28 pt-20">
       <div className="px-6 lg:px-8">
         <div className="mx-auto max-w-7xl pt-16 sm:pt-20 pb-20 banner-image">
           <div className="text-center">
